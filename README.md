@@ -20,6 +20,11 @@ Esta guia de laboratorio solo explicara ejecucion de comandos mediante CLI.
 - Se desplegara el siguiente menu para poder crear el repositorio, Poner como nombre del repositorio laboratorio_github y crearlo
 ![Paso1-3](images/paso1-3.png)
 
+#### Para trabajar el proyecto abrirlo desde el Visual Studio Code (File > Open Folder < <buscamos la ruta en donde se descargó el proyecto> )  ![Paso 4-1](images/paso4-1.png) 
+
+### Luego, se abre una terminal desde Visual Studio Code (... > teminal > New Terminal) ![Paso 1-4](images/paso1-4.png) 
+
+
 ## 2. Descarga de archivos para laboratorio en tu propio repositorio.
 
 En este caso no se usara la funcion Fork de git para evitar posibles conflictos con el repositorio principal por algun PR.
@@ -45,6 +50,8 @@ Para este laboratorio se requiere habilitar una configuracion en el repositorio 
 - Seleccionar la seccion de Pages y en Build and deployment desplegar la barra y seleccionar GitHub Actions. ![Paso 3-2](images/paso3-2.png)
 
 Ya con las configuraciones realizadas se puede a proceder con ejecucion de comandos git para el laboratorio.
+
+
 
 ## 4. Creación de ramas con git.
 
