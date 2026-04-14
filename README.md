@@ -151,3 +151,4 @@ Para implementar un merge a la rama main mediante pull request, se requiere trae
 Luego de haber realizado el push directo a la rama dev en github hacer los siguientes pasos
 - ir a Pull Requests ![Paso 7-1](images/paso7-1.png)
 - Seleccionar New Pull request ![Paso 7-2](images/paso7-2.png)
+- Seleccionar la rama dev ![Paso 7-3](images/paso7-3.png)
